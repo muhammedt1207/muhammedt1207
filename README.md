@@ -74,11 +74,7 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> 
     </p>  
 </p>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashi9551&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=rashi9551&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashi9551&theme=dark&hide_border=true" alt="">
-</div>
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
